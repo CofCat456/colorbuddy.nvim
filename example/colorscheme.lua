@@ -12,7 +12,7 @@ local styles = require("colorbuddy.init").styles
 
 Color.new("red", "#cc6666")
 Color.new("green", "#99cc99")
-Color.new("yellow", "#f0c674")
+Color.new("yellow", "#9ccfd8")
 Color.new("background", "#1d1f21")
 
 Group.new("Function", colors.yellow, colors.background, styles.bold)

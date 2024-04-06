@@ -18,7 +18,7 @@ Color.new("black", "#000000")
 if c.NvimLightYellow then
   Color.new("lightyellow", c.NvimLightYellow:to_hsl())
 else
-  Color.new("lightyellow", "#f4d88c")
+  Color.new("lightyellow", "#00C9FF")
 end
 
 if c.NvimLightCyan then
